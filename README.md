@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Frontend 
 ![image](https://github.com/kartikkaushik7497/Netflix-App/assets/116940711/78c5b751-3270-46a3-b548-2bd8329d5115)
+![image](https://github.com/kartikkaushik7497/Netflix-App/assets/116940711/bd9a604f-8117-4802-9436-29e06d532a69)
+
 ## Available Scripts
 
 In the project directory, you can run:
