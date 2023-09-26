@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+![image](https://github.com/kartikkaushik7497/Netflix-App/assets/116940711/78c5b751-3270-46a3-b548-2bd8329d5115)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
